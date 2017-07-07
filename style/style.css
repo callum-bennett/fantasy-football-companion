@@ -1,0 +1,22 @@
+body {
+  font-size: 10px;
+}
+
+.team-cards {
+
+}
+
+
+#page-header {
+  margin: 10px 0 5px;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+
+
+::-webkit-scrollbar-thumb {
+  background-color: #00B5AD;
+}
